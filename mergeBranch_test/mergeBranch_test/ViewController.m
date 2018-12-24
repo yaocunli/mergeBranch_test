@@ -28,6 +28,8 @@
     bbb.text = @"bbb";
     [self.view addSubview:bbb];
     
+    
+    
 }
 
 

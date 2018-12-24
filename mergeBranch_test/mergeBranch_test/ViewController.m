@@ -18,9 +18,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    UILabel * AAA = [[UILabel alloc] initWithFrame:CGRectMake(100, 200, 50, 50)];
-    AAA.text = @"AAA";
-    [self.view addSubview:AAA];
+    UILabel * AAA1 = [[UILabel alloc] initWithFrame:CGRectMake(100, 200, 50, 50)];
+    AAA1.text = @"AAA1";
+    [self.view addSubview:AAA1];
     
 }
 

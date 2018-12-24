@@ -20,6 +20,9 @@
     UILabel * DEV = [[UILabel alloc] initWithFrame:CGRectMake(100, 200, 50, 50)];
     DEV.text = @"DEV";
     [self.view addSubview:DEV];
+    UILabel * aaa = [[UILabel alloc] initWithFrame:CGRectMake(100, 200, 50, 50)];
+    aaa.text = @"aaa";
+    [self.view addSubview:aaa];
 
     
 }

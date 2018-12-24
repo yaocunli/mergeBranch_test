@@ -23,7 +23,10 @@
     UILabel * aaa = [[UILabel alloc] initWithFrame:CGRectMake(100, 200, 50, 50)];
     aaa.text = @"aaa";
     [self.view addSubview:aaa];
-
+    
+    UILabel * bbb = [[UILabel alloc] initWithFrame:CGRectMake(100, 200, 50, 50)];
+    bbb.text = @"bbb";
+    [self.view addSubview:bbb];
     
 }
 
